@@ -1,3 +1,7 @@
+"You reached for the secret too soon... You cried for the moon."
+<sup>Pink Floyd - Shine On You Crazy Diamond (Pts. I - V)</sup>
+
+
 Remember Python? Classes are back!
 
 
