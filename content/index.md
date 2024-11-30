@@ -2,10 +2,10 @@
 title: Skeleton Book 5 - Game Programming
 ---
 
-This is it! Our last Skeleton Book of the term. We hope you've gotten use of and enjoyed our work. See you in Term 4!
+This is it! Our last Skeleton Book of the term. We hope you've gotten use of and enjoyed our work. See you in Term 4, and give the tests hell!
 \- Mikhail
 
-Good luck, all the best! This is our last test.
+Good luck, all the best! This is our last test of the term. We're only gonna fall deeper into this rabbit hole, but, all the best!
 \- Jabriel
 
 
