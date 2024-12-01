@@ -90,7 +90,7 @@ Implement occlusion culling and frustum <font color="#ffff00">culling is used to
 | Regular Frustum culling only renders<br>objects within the camera's vie Occlusion culling removes additional objects<br>from within the camera rendering work if they<br>are completely obscured by nearer objects d  k  g  g  g  g  g  g  g  g  g  g  g  g  g  g  g  g  g  g  g  g  |
 
 ---
-9. <font color="#ff0000">Memory Allocation</font>
+9. <font color="#ff0000">Memory Management</font>
 
 <font color="#ff0000">Object Pooling</font>, <font color="#ffff00">reuses objects and resources whenever possible rather than creating and destroying new ones. Avoiding frequent memory allocations and deallocations, costly in terms of CPU time and memory fragmentation.</font>
 
