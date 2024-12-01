@@ -149,12 +149,6 @@ Similar to Awake() But, <font color="#ffff00">will be called if a GameObject is 
 Where we put code to <font color="#ffff00">define the logic of the game that runs forever/continously</font>, this <font color="#00b050">includes animations, AI and other parts of the game that has to be constantly updated</font>.
 
 ---
-<font color="#ff0000">Awake():</font>
-
-Runs <font color="#ffff00">before Start method is called.</font>
-
-
----
 <font color="#ff0000">FixedUpdate():</font>
 
 <font color="#ffff00">When you want to do Physics work. Runs on every fixed frame-rate, therefore it is independent on a device's framerate, and by proxy, performance capabilities.</font>
@@ -208,6 +202,13 @@ Occurs <font color="#ffff00">when you try to access a variable without a referen
 <font color="#ffff00">Any error which blocks the IO operation may trigger this exception.</font>
 
 ---
+<font color="#ff0000">Argument Exception:</font>
+
+<font color="#ffff00">When a method is called, and the arguments do not match up with the specified arguments of the method itself.</font>. 
+<font color="#00b050">Examples include having a different amount of parameters calling it, or calling it with parameters of the wrong datatype.</font>
+
+---
+
 <font color="#00b050">Example:</font>
 
 ```
