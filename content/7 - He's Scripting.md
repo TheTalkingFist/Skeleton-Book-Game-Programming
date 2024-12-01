@@ -245,3 +245,5 @@ Similar to Debug.LogError but <font color="#ffff00">makes your code more readabl
 <font color="#ffff00">with Unity Cloud Diagnostics.</font>
 
 ---
+
+Next: [[8 - Bug, Debug]]

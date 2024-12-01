@@ -122,3 +122,7 @@ This means the code may compile and run without error, resulting in an operation
 <font color="#00b050">Later in your program, you might concatenate FirstName with another variable named LastName to display a full name. If you forgot to assign a value to FirstName, only the last name would be displayed, not the full name as you intended.</font>
 
 Logic errors are one of the hardest errors out of the 3 to find and fix!
+
+---
+
+Next: [[9 - Gotta Go Fast, (Faster)]]
