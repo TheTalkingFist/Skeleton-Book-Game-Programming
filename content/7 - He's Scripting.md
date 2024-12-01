@@ -150,7 +150,7 @@ Where we put code to <font color="#ffff00">define the logic of the game that run
 ---
 <font color="#ff0000">FixedUpdate():</font>
 
-<font color="#ffff00">When you want to do Physics work.</font>
+<font color="#ffff00">When you want to do Physics work. Runs on every fixed frame-rate, therefore it is independent on a device's framerate, and by proxy, performance capabilities.</font>
 
 ---
 <font color="#ff0000">LateUpdate():</font>
@@ -166,9 +166,9 @@ Exceptions:
 
 Exceptions you can expect in C# are:
 
- - <font color="#ff0000"> Null Reference Exception</font>
+- <font color="#ff0000"> Null Reference Exception</font>
 - <font color="#ff0000"> Divide by Zero Exception</font>
-- <font color="#ff0000">Out of Memory Exception</font>
+-  <font color="#ff0000">Out of Memory Exception</font>
 - <font color="#ff0000"> Index Out of Range Exception</font>
 - <font color="#ff0000"> Input-Output Exception</font>
 
@@ -235,7 +235,7 @@ and if another type of Exception is thrown, the program will still stop, since w
 catch a DivideByZeroException.
 
 ---
- Logging Exceptions Using Debug.LogException Method: 
+Logging Exceptions Using Debug.LogException Method: 
 
 <font color="#ff0000">Debug.LogException:</font>
 
