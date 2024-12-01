@@ -85,9 +85,9 @@ Implement LOD techniques to <font color="#ffff00">reduce the level of detail for
 
 Implement occlusion culling and frustum <font color="#ffff00">culling is used to avoid rendering objects that are not visible to the camera.</font>
 
-| Regular Frustum:                                                                                                  | Occlusion Culling:                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Regular Frustum culling only renders<br>objects within the camera's vie Occlusion culling removes additional objects<br>from within the camera rendering work if they<br>are completely obscured by nearer objects d  k  g  g  g  g  g  g  g  g  g  g  g  g  g  g  g  g  g  g  g  g  |
+| Regular Frustum:                                                          | Occlusion Culling:                                                                                                                          |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Regular Frustum culling only renders<br>objects within the camera's view. | Occlusion culling removes additional objects<br>from within the camera rendering work if they<br>are completely obscured by nearer objects. |
 
 ---
 9. <font color="#ff0000">Memory Management</font>
