@@ -58,7 +58,7 @@ A Script <font color="#ff0000">contains variables, functions and classes</font>.
 
 <font color="#ffff00">Variables hold the values and references to objects</font>.
 
-Analogy Example, Like a box that holds something for use to use.
+Analogy Example, Like a box that holds something for you to use.
 
 ---
 <font color="#ff0000">Methods/Functions:</font>
