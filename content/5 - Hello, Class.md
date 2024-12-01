@@ -58,14 +58,14 @@ These essentially dictate how 'accessible' a class member (variable, method, etc
 ### Public
 No restrictions, any object, even outside the namespace, can access the member.
 
+### Internal Protected
+Internal and Protected combined, it can access anything within the same assembly, the same class and everything inherited from the class.
+
 ### Internal
 Anything with internal can be accessed within the program that contain its declarations, as well as the same assembly, but not anything from another assembly.
 
 ### Protected
 Accessibility is limited within the class, and everything that's a child of the class.
-
-### Internal Protected
-Internal and Protected combined, it can access anything within the same assembly, the same class and everything inherited from the class.
 
 ### Private
 The least accessible, cannot be accessed from outside the class itself. This is the default access specifier, if none else is declared.
