@@ -50,9 +50,9 @@ playerhealth.health;
 These essentially dictate how 'accessible' a class member (variable, method, etc.) is, as in whether any external object can take from it. These specifiers are as follows, from public to private:
 
 - Public
+- Internal Protected
 - Internal
 - Protected
-- Internal Protected
 - Private
 
 ### Public
