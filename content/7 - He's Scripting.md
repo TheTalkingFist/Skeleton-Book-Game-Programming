@@ -155,7 +155,7 @@ Where we put code to <font color="#ffff00">define the logic of the game that run
 ---
 <font color="#ff0000">LateUpdate():</font>
 
-Similar to update but, <font color="#ffff00">called right at the end of the frame.</font>
+Similar to update but, <font color="#ffff00">called right at the end of the frame, after Update has been called.</font>
 
 ---
 # Exception Handling
